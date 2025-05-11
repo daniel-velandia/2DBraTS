@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.npy
+*.nii
+*.nii.gz
+*.png
+data/

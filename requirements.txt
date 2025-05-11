@@ -1,0 +1,5 @@
+tensorflow>=2.10
+nibabel>=4.0
+gradio>=4.0
+matplotlib
+numpy
