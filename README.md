@@ -1,3 +1,14 @@
+---
+title: 2DBraTS
+emoji: 🧠
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: "4.44.1"
+app_file: app.py
+pinned: false
+---
+
 # Brain Tumor Segmentation Web App
 
 Esta aplicación, desarrollada con Gradio para la interfaz web, utiliza un modelo CNN basado en U-Net entrenado para segmentar tumores cerebrales en imágenes de resonancia magnética (MRI) 2D. El modelo se entrenó usando el dataset **BraTS 2020** (MICCAI Brain Tumor Segmentation Challenge) disponible en Kaggle: [BraTS 2020 Dataset Training/Validation](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation?select=BraTS2020_TrainingData).
